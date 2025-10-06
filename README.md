@@ -4,7 +4,7 @@ This repository contains Tableau projects completed during my MSc Data Science p
 
 ## Projects
 
-### 1. [Regional Sales Analysis](./Regional-Sales-Analysis)
+### 1. [Regional Sales Analysis](./Regional Sales Analysis)
 - **Objective:** Compare sales performance across two regions using interactive dashboards.
 - **Tools:** Tableau Desktop
 - **Key Skills:** KPIs, Parameters, Comparative Analysis, Dashboard Design
