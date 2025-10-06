@@ -8,7 +8,7 @@
 
 **Files:**
 - `Regional Sales Analysis – Tableau Project.pdf` – Step-by-step documentation with screenshots
-- `Regional Sales Analysis.twbx` – Tableau workbook with dashboards and interactive charts
+- `Tableau project - Comparison of Region based on Sales.twbx` – Tableau workbook with dashboards and interactive charts
 
 **Problem Statement:**  
 Analyze and compare sales data from two regions to understand trends, customer behavior, product mix, and profitability. Create a dynamic Tableau dashboard with interactive parameters for region selection, KPIs for total sales, average sales per order, total customers, and number of orders, along with visual comparison charts.
@@ -24,3 +24,4 @@ Available upon request or downloadable from the course LMS (38 MB, 250,000 rows)
 
 **Outcome:**  
 Management can identify top-performing regions, recognize improvement areas, and align sales strategies to boost efficiency and profitability.
+
