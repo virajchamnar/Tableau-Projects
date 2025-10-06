@@ -13,8 +13,8 @@ Analyze crime data to help law enforcement agencies understand patterns, trends,
 **Dataset:** Crime data for Chicago (2017–2022), including fields like Case Number, Date, Primary Type, Description, Location, Arrest, Domestic, and geographic coordinates.  
 
 **Files:**  
-- `Crime Analysis Dashboard.pdf` – Step-by-step process and insights  
-- `Crime Analysis Dashboard.twbx` – Tableau workbook  
+- `Crime Analysis - Tableau Project.pdf` – Step-by-step process and insights  
+- `Tableau project - Crime Analysis.twbx` – Tableau workbook  
 
 ## Step Highlights
 
@@ -42,3 +42,4 @@ Analyze crime data to help law enforcement agencies understand patterns, trends,
 ## Result
 
 The final dashboard provides law enforcement personnel with actionable insights into crime distribution, trends, and outcomes. It enables resource optimization, strategic planning, and improved understanding of citywide crime patterns.
+
