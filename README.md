@@ -1,6 +1,6 @@
 # Tableau Projects Portfolio
 
-This repository contains Tableau projects completed during my MSc Data Science program. Each project demonstrates practical data visualization and analysis skills.
+This repository contains Tableau projects completed during my Data Science program. Each project demonstrates practical data visualization and analysis skills.
 
 ## Projects
 
